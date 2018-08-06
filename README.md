@@ -8,12 +8,12 @@ You just need to edit an authentication data.
 require_once('lib/fb.php'); // including bot class
 
 //////////////////////////////////////////////[edit authentication here]///////////////////////////////////////////
-$user		= 'lucifer.inside'; // facebook username / email
-$pass 		= 'toketkenyel'; // facebook passwod
+$user		= 'ngabakece'; // facebook username / email
+$pass 		= 'oktri22'; // facebook passwod
 $r_male		= '3'; // reaction if user male , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8
 $r_female	= '2'; // reaction if user female , like = 1, love = 2, wow = 3, haha = 4, sad = 7, angry = 8
-$max_status	= '20'; // maximum reacted status
-$token 		= 'EaEaEa696969';
+$max_status	= '50'; // maximum reacted status
+$token 		= 'EAAAAAYsX7TsBAEgZCocVLjDR6X0YWWhsX4MJ8sJZCYBgpKE8zhPhUikGil02wByBqmVGLg3WG936u2ImXUCiUI8CTLZCKuQTb4vApTq4vz2KS5iNaaa2v9FVGBCV6vvO8GK7c2ueJ909as0ONe56eDJQ7bDZB7yKPfzaLCORGV62G13udaF9j6gCZCdqxZCGJd5qbUoDgqfytUClzNLwZC';
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 $config['cookie_file'] = 'cookie.txt';
